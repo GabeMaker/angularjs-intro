@@ -8,6 +8,10 @@ githubUserSearch.controller('GitUserSearchController', function($scope, $resourc
     );
   };
 
+  $scope.clearSearch = function() {
+    $scope.searchTerm = ""
+    // $scope.doSearch()
+  };
 });
 
 'https://api.github.com/search/users?q='
