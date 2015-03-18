@@ -10,7 +10,6 @@ githubUserSearch.controller('GitUserSearchController', function($scope, $resourc
 
   $scope.clearSearch = function() {
     $scope.searchTerm = ""
-    // $scope.doSearch()
   };
 });
 
