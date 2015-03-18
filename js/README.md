@@ -1,0 +1,1 @@
+What scope is the variable githubUserSearch in?
