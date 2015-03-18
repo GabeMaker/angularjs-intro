@@ -17,8 +17,3 @@ githubUserSearch.controller('GitUserSearchController', function($scope, $resourc
     $scope.searchTerm = ""
   };
 
-// var key = "54abf14be2425c478fb845387cc644acb3d53967";
-
-54abf14be2425c478fb845387cc644acb3d53967
-});
-
